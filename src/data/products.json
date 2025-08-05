@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "brand": "Sony",
+    "price": 2999,
+    "oldPrice": 3499,
+    "rating": 4.5,
+    "image": "https://cdn.pixabay.com/photo/2012/02/22/20/09/headphones-15600_1280.jpg",
+    "badge": "New"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "brand": "Apple",
+    "price": 7999,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=400&q=80",
+    "badge": "Sale"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "brand": "JBL",
+    "price": 1999,
+    "rating": 4.3,
+    "image": "https://images.pexels.com/photos/4917455/pexels-photo-4917455.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "brand": "Logitech",
+    "price": 1499,
+    "oldPrice": 1799,
+    "rating": 4.6,
+    "image": "https://cdn.pixabay.com/photo/2022/08/14/16/39/mouse-7386247_1280.jpg"
+  },
+  {
+    "id": 5,
+    "name": "DSLR Camera",
+    "brand": "Canon",
+    "price": 45999,
+    "rating": 4.7,
+    "image": "https://cdn.pixabay.com/photo/2016/04/30/05/04/camera-1362419_1280.jpg"
+  }
+]
